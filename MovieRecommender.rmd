@@ -164,4 +164,4 @@ topN <- 5
 recommendations(movieRatingMat, rec_model, userID, topN)
 ```
 
-The complete R code can be found [here]().
+The complete R code can be found [here](https://github.com/sinhas/RecommenderSystem).
